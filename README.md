@@ -1,72 +1,99 @@
-# Hi, I'm Arun Kumar 
+# Arun Kumar
 
-### Software Engineer | Full Stack Developer | AI Enthusiast
+### Full Stack + AI Engineer
 
-I'm a Master's student in Software Engineering at **EPITA Paris, France**, passionate about building practical software solutions that solve real-world problems.
+M.Sc. Software Engineering student at **EPITA Paris, France**.
 
-I enjoy working across backend systems, modern frontend applications, AI integrations, and cloud infrastructure.
+I build full-stack applications and AI-powered systems, focusing on backend engineering, modern web technologies, intelligent automation, and cloud-native development.
 
----
+Currently looking for a **Software Engineering / Full Stack / AI internship in France**.
 
-###  What I'm Working On
-
--  **MeetMind** – AI-powered meeting intelligence platform using speech transcription, summarization, and knowledge retrieval.
--  **CommitCompass** – A GitHub commit intelligence platform built with Java Spring Boot and React.
--  Exploring cloud deployment, Docker, CI/CD, and scalable backend architectures.
-
-### Technical Skills
-
-**Languages**
-- Java, Python, TypeScript, JavaScript, SQL
-
-**Backend**
-- Spring Boot, FastAPI, Node.js, REST APIs, JPA/Hibernate
-
-**Frontend**
-- React, Next.js, HTML, CSS
-
-**Databases**
-- PostgreSQL, MySQL, Supabase, Redis
-
-**AI & Machine Learning**
-- OpenAI API, Whisper, RAG, Pinecone
-
-**DevOps & Cloud**
-- Docker, Docker Compose, GitHub Actions, Microsoft Azure, Prometheus, Grafana
+[LinkedIn](https://www.linkedin.com/in/arun-kumar22) · [GitHub](https://github.com/ArunKumarJ22)
 
 ---
 
-### Featured Projects
+## About Me
 
-**MeetMind – AI Meeting Intelligence Platform**
+- 🎓 Pursuing an M.Sc. in Software Engineering at EPITA Paris.
+- 💻 Building full-stack applications using Java, Spring Boot, React and TypeScript.
+- 🤖 Exploring AI engineering, LLM integrations, speech processing and RAG systems.
+- ☁️ Working with Docker, Azure and CI/CD pipelines.
+- 🌱 Interested in software architecture, scalable backend systems and production-ready applications.
 
-An application that transforms meetings into searchable knowledge through transcription, AI-generated summaries, and interactive learning features.
+---
 
-Tech: Python, FastAPI, React, Next.js, PostgreSQL, Whisper, OpenAI, Docker.
+## Featured Projects
+
+### 01. MeetMind — AI Meeting Intelligence
+
+An AI-powered meeting intelligence platform that transforms meeting recordings into structured, searchable knowledge.
+
+- Speech-to-text transcription using Whisper.
+- AI-generated meeting summaries.
+- Knowledge retrieval using RAG.
+- Interactive learning and quiz generation.
+
+**Tech:** Python · FastAPI · React · Next.js · PostgreSQL · OpenAI · Whisper · Docker
 
 [View Repository](https://github.com/ArunKumarJ22/MeetMind)
 
-**CommitCompass – GitHub Commit Intelligence**
+### 02. CommitCompass — GitHub Commit Intelligence
 
-A full-stack application designed to retrieve and analyze GitHub commit activity, with a Java Spring Boot backend and React TypeScript frontend.
+A full-stack application designed to retrieve and organize GitHub commit activity, providing a foundation for understanding software development history.
 
-Tech: Java, Spring Boot, React, TypeScript, PostgreSQL, Docker.
+- GitHub API integration.
+- Backend services using Spring Boot.
+- React and TypeScript frontend.
+- PostgreSQL persistence.
+
+**Tech:** Java · Spring Boot · React · TypeScript · PostgreSQL · Docker
 
 [View Repository](https://github.com/ArunKumarJ22/CommitCompass---Version-Control-Intelligence)
 
-### Current Goals
+### 03. DevOps-CICD — Automated Deployment
 
-- Build production-oriented full-stack applications.
-- Improve software architecture and backend engineering skills.
-- Develop practical AI-powered applications.
-- Strengthen cloud and DevOps engineering skills.
-- Contribute to collaborative open-source projects.
+A hands-on DevOps project exploring containerization, automated CI/CD workflows and cloud deployment.
+
+- Docker and Docker Compose.
+- GitHub Actions automation.
+- Azure VM deployment.
+- Application deployment and infrastructure configuration.
+
+**Tech:** Python · Flask · Docker · GitHub Actions · Azure · Linux
+
+[View Repository](https://github.com/ArunKumarJ22/Devops-CICD)
 
 ---
 
-### 🤝 Let's Connect
+## Technical Skills
 
-LinkedIn: www.linkedin.com/in/arunkumar-software-engineer
-GitHub: https://github.com/ArunKumarJ22
+| Category | Technologies |
+|---|---|
+| Languages | Java, Python, TypeScript, JavaScript, SQL |
+| Backend | Spring Boot, FastAPI, Node.js, REST APIs |
+| Frontend | React, Next.js, HTML, CSS |
+| Databases | PostgreSQL, MySQL, Redis, Supabase |
+| AI Engineering | OpenAI API, Whisper, RAG, Pinecone |
+| DevOps | Docker, Docker Compose, GitHub Actions |
+| Cloud | Microsoft Azure |
+| Monitoring | Prometheus, Grafana |
+| Tools | Git, GitHub, Maven, Postman |
 
-*Always learning. Always building. Always improving.*
+---
+
+## Current Focus
+
+- Building production-oriented full-stack applications.
+- Improving Java and Spring Boot backend engineering.
+- Developing AI-powered applications using LLMs and RAG.
+- Learning scalable architecture and cloud deployment.
+- Collaborating on real-world software projects.
+
+---
+
+## Let's Connect
+
+- LinkedIn: [Arun Kumar](www.linkedin.com/in/arunkumar-software-engineer)
+- GitHub: [@ArunKumarJ22](https://github.com/ArunKumarJ22)
+
+*Build. Learn. Improve. Repeat.*
