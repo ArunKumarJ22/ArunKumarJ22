@@ -14,11 +14,11 @@ Currently looking for a **Software Engineering / Full Stack / AI internship in F
 
 ## About Me
 
-- 🎓 Pursuing an M.Sc. in Software Engineering at EPITA Paris.
-- 💻 Building full-stack applications using Java, Spring Boot, React and TypeScript.
-- 🤖 Exploring AI engineering, LLM integrations, speech processing and RAG systems.
-- ☁️ Working with Docker, Azure and CI/CD pipelines.
-- 🌱 Interested in software architecture, scalable backend systems and production-ready applications.
+-  Pursuing an M.Sc. in Software Engineering at EPITA Paris.
+-  Building full-stack applications using Java, Spring Boot, React and TypeScript.
+-  Exploring AI engineering, LLM integrations, speech processing and RAG systems.
+-  Working with Docker, Azure and CI/CD pipelines.
+-  Interested in software architecture, scalable backend systems and production-ready applications.
 
 ---
 
