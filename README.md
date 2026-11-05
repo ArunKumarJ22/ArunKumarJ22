@@ -52,7 +52,7 @@ A full-stack application designed to retrieve and analyze GitHub commit activity
 
 Tech: Java, Spring Boot, React, TypeScript, PostgreSQL, Docker.
 
----
+[View Repository](https://github.com/ArunKumarJ22/CommitCompass---Version-Control-Intelligence)
 
 ### Current Goals
 
